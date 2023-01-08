@@ -1,2 +1,1 @@
-# db_operations
-This application is used to communicate with RDS
+I am editing the README file. Adding some more details about the project description.
